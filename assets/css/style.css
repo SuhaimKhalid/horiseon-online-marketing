@@ -69,6 +69,7 @@ p {
         display: inline-block;
         margin-left: 20px;
     }
+    /* main-content-card class for all Main Content artcile sections */
     .main-content-card{
         margin-bottom: 20px;
         padding: 50px;
@@ -124,18 +125,14 @@ p {
         max-width: 150px;
     }
 
+    /* Footer Section */
+    .footer {
+        padding: 30px;
+        clear: both;
+        font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+        text-align: center;
+    }
 
-
-
-
-
-.footer {
-    padding: 30px;
-    clear: both;
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-align: center;
-}
-
-.footer h2 {
-    font-size: 20px;
-}
+    .footer h2 {
+        font-size: 20px;
+    }
