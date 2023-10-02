@@ -13,6 +13,8 @@ The motive of the website is to help businesses succeed online by offering SEO, 
 Everyone can access this Website by just going to our url:https://suhaimkhalid.github.io/horiseon-online-marketing/
 There is no instalation require for viewing our site
 
+## Languages 
+HTML and CSS are the two languages which are being used in this project
 
 ## Changes Made in HTML
 
