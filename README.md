@@ -16,6 +16,14 @@ There is no instalation require for viewing our site
 ## Languages 
 HTML and CSS are the two languages which are being used in this project
 
+## Screenshot
+
+
+
+## Deployed page
+
+Page published at: https://suhaimkhalid.github.io/horiseon-online-marketing/
+
 ## Changes Made in HTML
 
 - Update tiitle according to the Website

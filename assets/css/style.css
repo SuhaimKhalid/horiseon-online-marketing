@@ -64,14 +64,14 @@ p {
     }
 
     /* Content Section */
-    .content {
+    section .content {
         width: 75%;
         display: inline-block;
         margin-left: 20px;
     }
 
 /* main-content-card class for all Main Content artcile sections */
-    .main-content-card{
+ section article .main-content-card{
         margin-bottom: 20px;
         padding: 50px;
         height: 300px;
@@ -80,20 +80,20 @@ p {
         color: #ffffff;
     }
     
-    .main-content-card img{
+    section article .main-content-card img{
         max-height: 200px;
     }
-    .main-content-card h2{
+    section article .main-content-card h2{
         margin-bottom: 20px;
         font-size: 36px;
     }
 
-    .main-content-card .float-left {
+    section article .main-content-card .float-left {
         float: left;
         margin-right: 25px;
     }
 
-    .main-content-card .float-right {
+    section article .main-content-card .float-right {
         float: right;
         margin-left: 25px;
     }
@@ -101,7 +101,7 @@ p {
 
     /* Aside Section */
 
-    .benefits {
+    aside .benefits {
         margin-right: 20px;
         padding: 20px;
         clear: both;
@@ -112,15 +112,15 @@ p {
         background-color: #2589bd;
     }
     /* Benefits_column For all Benefit Articles  */
-    .benefits_column{
+    aside article .benefits_column{
         margin-bottom: 32px;
         color: #ffffff;
     }
-    .benefits_column h2{
+    aside article .benefits_column h2{
         margin-bottom: 10px;
         text-align: center;
     }
-    .benefits_column img{
+    aside article .benefits_column img{
         display: block;
         margin: 10px auto;
         max-width: 150px;
