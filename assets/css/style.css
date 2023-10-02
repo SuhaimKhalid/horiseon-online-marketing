@@ -69,7 +69,8 @@ p {
         display: inline-block;
         margin-left: 20px;
     }
-    /* main-content-card class for all Main Content artcile sections */
+
+/* main-content-card class for all Main Content artcile sections */
     .main-content-card{
         margin-bottom: 20px;
         padding: 50px;
@@ -115,7 +116,7 @@ p {
         margin-bottom: 32px;
         color: #ffffff;
     }
-    .benefits_column h3{
+    .benefits_column h2{
         margin-bottom: 10px;
         text-align: center;
     }
