@@ -17,8 +17,7 @@ There is no instalation require for viewing our site
 HTML and CSS are the two languages which are being used in this project
 
 ## Screenshot
-
-
+![Horiseon-Online-Marketing](/relative/assets/images/ScreenShot.png?raw=true )
 
 ## Deployed page
 
