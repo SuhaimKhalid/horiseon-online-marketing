@@ -6,9 +6,9 @@ Horiseon is your digital partner for SEO, Online Reputation Management, and Soci
 ## Motive
 The motive of the website is to help businesses succeed online by offering SEO, reputation management, and social media marketing services, ultimately boosting their digital presence and growth.
 
-## Problem Solves
-The purpose behind building this project is to provide 
-
+## Usage
+Everyone can access this Website by just going to our url:https://suhaimkhalid.github.io/horiseon-online-marketing/
+There is no instalation require for viewing our site
 
 
 ## Changes Made in HTML
@@ -22,6 +22,14 @@ The purpose behind building this project is to provide
 - Assign id to unassing sections like Seach engine optimization for click able in navbar
 - Add Commit before each section for better understanding of code
 
-## Changes Make in CSS
-- 
+## Changes Mase in CSS
+- Add new Class which can work on behalf of multiple class
+- Make a hierarchy in Class selection so no other class can effect each other
+- Remove Hero image from background and update in HTML Tag in form of img tag with alt attribute
 -  Add Commit before each section for better understanding of code
+
+## Contact
+You can reach me on Instagram @SuhaimKhalid
+
+## License
+MIT
